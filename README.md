@@ -1,5 +1,6 @@
-# I'm Henrique Nascimento. 
+# Heyy there, I'm Henrique Nascimento. 
 ## A 24 years old brazilian mobile developer, and passionate by build great user experiences.
+
 
 I usually work with: 
 
@@ -7,6 +8,8 @@ I usually work with:
 :computer: Web front-end development with **ReactJs** and **NextJs**<br/>
 :satellite: API's with **NodeJs** or **Java with dropwizard**<br/>
 :floppy_disk: Database: **Postgres**, **Elastic Search**, **Firebase (Cloud Firestore/Real Time)**<br/>
+
+
 
 Some techs i've worked with: 
 
