@@ -1,8 +1,16 @@
 # I'm Henrique Nascimento. 
 ## A 24 years old brazilian mobile developer, and passionate by build great user experiences.
 
-  
-  <p>
+I usually work with: 
+
+:iphone: Mobile app for Android and iOS with **Flutter** and **React Native** <br/> 
+:computer: Web front-end development with **ReactJs** and **NextJs**<br/>
+:satellite: API's with **NodeJs** or **Java with dropwizard**<br/>
+:floppy_disk: Database: **Postgres**, **Elastic Search**, **Firebase (Cloud Firestore/Real Time)**<br/>
+
+Some techs i've worked with: 
+
+<p>
 <img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_500,q_auto:good,w_500/v1/gcs/platform-data-dsc/events/flutter-logo-5086DD11C5-seeklogo.com__McAf8P7.png" height="35px" />  
 &nbsp;
 <img src="https://appmasters.io/static/react-47ce6e77f039020ee2e76a10c1e988e9.png" height="35px"/> 
@@ -28,5 +36,8 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" height="35px"/>
 &nbsp;
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" height="35px"/> 
-
+&nbsp;
+<img src="https://cdn.freebiesupply.com/logos/large/2x/elastic-elasticsearch-logo-png-transparent.png" height="35px"/>
+&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Apache_kafka.svg/1200px-Apache_kafka.svg.png" height="35px"/> 
 </p>
