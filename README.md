@@ -7,7 +7,7 @@ I usually work with:
 :iphone: Mobile app for Android and iOS with **Flutter** and **React Native** <br/> 
 :computer: Web front-end development with **ReactJs** and **NextJs**<br/>
 :satellite: API's with **NodeJs** or **Java with dropwizard**<br/>
-:floppy_disk: Database: **Postgres**, **Elastic Search**, **Firebase (Cloud Firestore/Real Time)**<br/>
+:floppy_disk: Database: **Postgres**, **Elastic Search**, **Firebase**<br/>
 
 
 
