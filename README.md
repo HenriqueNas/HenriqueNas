@@ -16,13 +16,11 @@ Some techs i've worked with:
 <p>
 <img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_500,q_auto:good,w_500/v1/gcs/platform-data-dsc/events/flutter-logo-5086DD11C5-seeklogo.com__McAf8P7.png" height="35px" />  
 &nbsp;
-<img src="https://appmasters.io/static/react-47ce6e77f039020ee2e76a10c1e988e9.png" height="35px"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" height="35px"/> 
 &nbsp;
 <img src="https://img.icons8.com/color/452/firebase.png" height="35px" />
 &nbsp;  
 <img src="https://seeklogo.com/images/F/figma-logo-E4E21D3AEA-seeklogo.com.png" height="35px" />
-&nbsp;
-<img src="https://image.flaticon.com/icons/png/512/226/226770.png" height="35px"/>
 &nbsp;
 <img src="https://www.freepnglogos.com/uploads/apple-logo-png/apple-logo-icon-transparent-png-svg-vector-3.png" height="35px"/>  
 &nbsp;  
