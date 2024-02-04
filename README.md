@@ -4,7 +4,7 @@ Feel free to ask me about **Flutter** and **Coffee**. </br>
 I'm working towards becoming a full-time open source engineer and occasionally contributing some unconventional PRs.
 
 - Creator of [Wed](https://github.com/henriquenas/wed) _(SPA for web Dart)_ framework
-- Initiator of [flutter-vanillaDS](https://github.com/henriquenas/flutter-vanillaDS) _(Ubuntu design system for Flutter)_ library
+- Initiator of [flutter_vanilla](https://github.com/HenriqueNas/flutter_vanilla) _(Ubuntu design system for Flutter)_ library
 - You'll often find me exploring open source projects
 - Checkout my cool [portifolio](https://henriquenas.dev/) 
 - I'm good at a few other things, but I'm still figuring out what those are... 🤔
