@@ -1,4 +1,4 @@
-### Yo! I'm Henrique Nas (but just Nas, please :nail_care:)
+### hii, I'm Henrique Nascimento (but just Nas, please :nail_care:)
 
 Feel free to ask me about **Flutter** and **Coffee**. </br>
 I'm working towards becoming a full-time open source engineer and occasionally contributing some unconventional PRs.
